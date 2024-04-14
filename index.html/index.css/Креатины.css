@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#Monop {
+    margin: 30px;
+}
+#mn {
+    margin: 20px;
+    padding: 20px;
+}
+
+#mainmn {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+#mmn1 {
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+#mmn2 {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+#tmainmn {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#tmmn1 {
+    padding-right: 30px;
+}
+
+#tmmn2 {
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+#thmainmn {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#thmmn1 {
+    padding-right: 30px;
+}
+
+#thmmn2 {
+    margin-left: 70px;
+    margin-right: 10px;
+}
+
+
+#ma {
+    margin-top: 40px;
+    padding-top: 40px;
+    margin-left: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    clear: both;
+}
+
+#mainma {
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#mma1 {
+    padding-right: 30px;
+}
+
+#mma2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#tmainma {
+    float:left;
+    padding-left: 10px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#tmma1 {
+    padding-right: 30px;
+}
+
+#tmma2 {
+    margin-left: 70px;
+    margin-right: 10px;
+}
+
+#thmainma {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#thmma1{
+    padding-right: 20px;
+}
+
+#thmma2 {
+    margin-left: 110px;
+    margin-right: 10px;
+}
+
+#a2 {
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#zagl {
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}

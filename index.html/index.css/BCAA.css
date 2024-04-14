@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#Le {
+    margin: 20px;
+    padding: 20px;
+}
+
+#mainLe {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+#mLe1 {
+    padding: 0;
+}
+
+#mLe2 {
+    margin-left: 120px;
+    margin-right: 10px;
+    padding: 0%;
+}
+#tmainLe {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#tmLe1 {
+    padding: 0;
+}
+
+#tmLe2 {
+    margin-left: 140px;
+    margin-right: 10px;
+}
+
+#thmainLe {
+    float:left;
+    padding-left: 20px;
+    margin-left: 20px;
+    border: solid gray;
+    border-radius: 8%; 
+    float: left;
+}
+
+#thmLe1 {
+    padding-right: 30px;
+}
+
+#thmLe2 {
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+#zagl {
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
